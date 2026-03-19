@@ -7,8 +7,6 @@ All skills live in `.claude/.agent/skills/<skill-name>/SKILL.md`.
 
 When asked to help with a task, identify the relevant category below, read that category's `SKILLS.md`, then read the specific `SKILL.md` files listed there. Only load categories needed for the current task.
 
-`SKILL.md` files listed
-
 > Example: User asks for UI design help → read `categories/design/SKILLS.md` → read the specific SKILL.md files listed there → apply that knowledge.
 
 ## Skill Categories
