@@ -8,10 +8,10 @@
   "gitEnabled": true,
   "pinnedNoteIds": null,
   "textDirection": null,
-  "editorWidth": null,
+  "editorWidth": "normal",
   "defaultNoteName": "Damn note",
   "interfaceZoom": 1.0,
-  "customEditorWidthPx": null,
+  "customEditorWidthPx": 658,
   "ollamaModel": null,
   "foldersEnabled": true
 }
