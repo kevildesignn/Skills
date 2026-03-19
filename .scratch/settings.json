@@ -1,0 +1,17 @@
+{
+  "theme": {
+    "mode": "system",
+    "customLightColors": null,
+    "customDarkColors": null
+  },
+  "editorFont": null,
+  "gitEnabled": true,
+  "pinnedNoteIds": null,
+  "textDirection": null,
+  "editorWidth": null,
+  "defaultNoteName": "Damn note",
+  "interfaceZoom": 1.0,
+  "customEditorWidthPx": null,
+  "ollamaModel": null,
+  "foldersEnabled": true
+}
